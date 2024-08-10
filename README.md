@@ -11,3 +11,5 @@
 [![Github](https://www.codenary.co.kr/widget/github/api?username=박인호)](https://www.codenary.co.kr/user-profile/detail/박인호?github_ride=true&utm_source=github)
 
 ![swift](https://www.codenary.co.kr/widget/github-techstack/api?name=swift) ![googlefirebase](https://www.codenary.co.kr/widget/github-techstack/api?name=googlefirebase) ![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) ![oracledb](https://www.codenary.co.kr/widget/github-techstack/api?name=oracledb) ![spring](https://www.codenary.co.kr/widget/github-techstack/api?name=spring) ![cplusplus](https://www.codenary.co.kr/widget/github-techstack/api?name=cplusplus) ![github](https://www.codenary.co.kr/widget/github-techstack/api?name=github) ![python](https://www.codenary.co.kr/widget/github-techstack/api?name=python) ![javascript](https://www.codenary.co.kr/widget/github-techstack/api?name=javascript) 
+
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
