@@ -1,3 +1,8 @@
+<!-- 헤더 -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer&descAlignY=51&descAlign=62" />
+</p>
+
 <h1 align="center">👋 Hi, I'm INU</h1>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Mobile+App+Developer;iOS+Developer;Android+Developer;Flutter+Developer" alt="Typing SVG" />
@@ -74,4 +79,9 @@
      <a href="https://linkedin.com/in/인호-박-262803328">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+</p>
+
+<!-- 푸터 -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&animation=fadeIn&fontAlignY=65&descAlignY=85" />
 </p>
