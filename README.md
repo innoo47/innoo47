@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,swift,dart,androidstudio,apple,flutter,spring,idea,eclipse,vscode,vim,linux,ubuntu,arduino,raspberrypi,firebase,sqlite,c,cpp,py,js,anaconda,notion,github,figma&perline=13" />
+    <img src="https://skillicons.dev/icons?i=java,swift,dart,androidstudio,apple,flutter,spring,idea,eclipse,vscode,vim,linux,ubuntu,arduino,raspberrypi,firebase,sqlite,c,cpp,py,js,anaconda,notion,github,figma&perline=13&theme=light" />
   </a>
 </p>
 
