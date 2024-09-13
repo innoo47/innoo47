@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 [![Github](https://www.codenary.co.kr/widget/github/api?username=박인호)](https://www.codenary.co.kr/user-profile/detail/박인호?github_ride=true&utm_source=github)
 
 ![swift](https://www.codenary.co.kr/widget/github-techstack/api?name=swift) ![googlefirebase](https://www.codenary.co.kr/widget/github-techstack/api?name=googlefirebase) ![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) ![oracledb](https://www.codenary.co.kr/widget/github-techstack/api?name=oracledb) ![spring](https://www.codenary.co.kr/widget/github-techstack/api?name=spring) ![cplusplus](https://www.codenary.co.kr/widget/github-techstack/api?name=cplusplus) ![github](https://www.codenary.co.kr/widget/github-techstack/api?name=github) ![python](https://www.codenary.co.kr/widget/github-techstack/api?name=python) ![javascript](https://www.codenary.co.kr/widget/github-techstack/api?name=javascript) 
