@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3E0,100:005C99&height=300&section=header&text=Hello%20World!&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&fontFamily=Open+Sans:italic" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3E0,100:005C99&height=300&section=header&text=Hello%20World!&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" />
 </p>
 
 <h1 align="center">
