@@ -45,29 +45,27 @@
 
 <!-- GitHub 통계 -->
 
-![innoo47 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=innoo47)
-
 <p align="center">
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=innoo47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=innoo47&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=innoo47&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innoo47&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innoo47&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=innoo47&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=innoo47&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
 
 ### 📊 GitHub Activity Graph
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=innoo47&theme=rogue" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=innoo47&theme=minimal" alt="GitHub Activity Graph" />
 </p>
 
 ---
