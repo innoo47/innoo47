@@ -1,11 +1,11 @@
 <!-- 헤더 -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer&descAlignY=51&descAlign=62" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3E0,100:005C99&height=250&section=header&text=Hello%20World!&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" />
 </p>
 
 <h1 align="center">👋 Hi, I'm INU</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Mobile+App+Developer;iOS+Developer;Android+Developer;Flutter+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&width=435&lines=Mobile+App+Developer;iOS+Developer;Android+Developer;Flutter+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,8 +39,15 @@
 ---
 
 ### 🔥 GitHub Streak
+
+<!-- GitHub 통계 -->
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=innoo47&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=innoo47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=innoo47&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innoo47&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -83,5 +90,5 @@
 
 <!-- 푸터 -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&animation=fadeIn&fontAlignY=65&descAlignY=85" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005C99,100:00A3E0&height=200&section=footer&text=Thank%20You%20for%20visiting!&fontSize=30&fontColor=FFFFFF" />
 </p>
