@@ -1,9 +1,12 @@
 <!-- 헤더 -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3E0,100:005C99&height=250&section=header&text=Hello%20World!&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3E0,100:005C99&height=300&section=header&text=Hello%20World!&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&fontFamily=Open+Sans:italic" />
 </p>
 
-<h1 align="center">👋 Hi, I'm INU</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=00A3E0&center=true&vCenter=true&width=435&lines=Hello,%20I'm%20Inu%20!;Welcome%20to%20My%20Profile!" alt="Typing SVG" />
+</h1>
+
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&width=435&lines=Mobile+App+Developer;iOS+Developer;Android+Developer;Flutter+Developer" alt="Typing SVG" />
 </p>
@@ -42,7 +45,7 @@
 
 <!-- GitHub 통계 -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=innoo47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=innoo47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> -->
     <img src="https://github-readme-streak-stats.herokuapp.com?user=innoo47&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
