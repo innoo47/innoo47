@@ -12,6 +12,12 @@
 </p>
 
 <p align="center">
+    <img src="https://github.com/user-attachments/assets/2094ea36-4bb3-4e90-8a12-c2332a39a09a" alt="Flutter Logo" />
+    <img src="https://github.com/user-attachments/assets/512c46a5-2f52-4dd0-9067-5e756538b496" alt="Apple Logo" />
+    <img src="https://github.com/user-attachments/assets/9e7728c6-afca-4af2-b079-8f04fece400c" alt="Android Logo" />
+</p>
+
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=innoo47&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> 
     <a href="https://github.com/innoo47?tab=followers"><img src="https://img.shields.io/github/followers/innoo47?label=Followers&style=social" alt="GitHub followers" /></a>
 </p>
