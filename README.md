@@ -35,11 +35,6 @@
 <!-- GitHub 통계 -->
 
 <p align="center">
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=innoo47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=innoo47&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innoo47&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -59,14 +54,6 @@
 
 ---
 
-### ✍️ Recent Blog Posts
-<p align="center">
-    <a href="https://www.notion.so/4d18bab9036f4e97bd4929f5f83e68b3">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge" />
-    </a>
-</p>
-
----
 
 ### 🧑‍💻 Let's Connect
 <p align="center">
@@ -81,7 +68,3 @@
     </a>
 </p>
 
-<!-- 푸터 -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005C99,100:00A3E0&height=200&section=footer&text=Thank%20You%20for%20visiting!&fontSize=30&fontColor=FFFFFF" />
-</p>
