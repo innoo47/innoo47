@@ -1,7 +1,3 @@
-<!-- 헤더 -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3E0,100:005C99&height=200&section=header&text=Hello%20World!&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" />
-</p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=00A3E0&center=true&vCenter=true&width=435&lines=Hello,%20I'm%20Inu%20!;Welcome%20to%20My%20Profile!" alt="Typing SVG" />
