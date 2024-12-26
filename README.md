@@ -40,21 +40,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=innoo47&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
-### 📊 GitHub Activity Graph
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=innoo47&theme=minimal" alt="GitHub Activity Graph" />
-</p>
-
----
-
-
 ### 🧑‍💻 Let's Connect
 <p align="center">
     <a href="mailto:i0n4h0o7@naver.com">
