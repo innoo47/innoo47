@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,swift,dart,androidstudio,apple,flutter,spring,idea,eclipse,vscode,vim,linux,ubuntu,arduino,raspberrypi,firebase,sqlite,c,cpp,py,js,anaconda,notion,github,figma&perline=13&theme=light" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,java,androidstudio,swift,apple,spring,idea,eclipse,vscode,vim,linux,ubuntu,arduino,raspberrypi,firebase,sqlite,notion,github,figma&perline=10&theme=light" />
   </a>
 </p>
 
