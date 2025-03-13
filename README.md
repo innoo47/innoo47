@@ -1,12 +1,4 @@
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&color=00A3E0&center=true&vCenter=true&width=435&lines=Hello,%20I'm%20Inu%20!;Welcome%20to%20My%20Profile!" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&width=435&lines=Mobile+App+Developer;iOS+Developer;Android+Developer;Flutter+Developer" alt="Typing SVG" />
-</p>
-
 <p align="center">
     <img src="https://github.com/user-attachments/assets/2094ea36-4bb3-4e90-8a12-c2332a39a09a" alt="Flutter Logo" />
     <img src="https://github.com/user-attachments/assets/512c46a5-2f52-4dd0-9067-5e756538b496" alt="Apple Logo" />
