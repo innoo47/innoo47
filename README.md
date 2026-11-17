@@ -24,7 +24,6 @@
 ---
 
 <!-- GitHub 통계 -->
-<!--
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innoo47&layout=compact&hide_border=true" alt="Top Languages" />
@@ -34,13 +33,13 @@
 
 ### 🧑‍💻 Let's Connect
 <p align="center">
-    <a href="mailto:i0n4h0o7@naver.com">
+    <a href="mailto:">
         <img src="https://img.shields.io/badge/Naver-23A254?style=for-the-badge&logo=naver&logoColor=white" alt="Naver" />
     </a>
-    <a href="mailto:i0n4h0o7@gmail.com">
+    <a href="mailto:inu9947@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-     <a href="https://linkedin.com/in/인호-박-262803328">
+     <a href="https://linkedin.com/in/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
