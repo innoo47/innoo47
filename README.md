@@ -21,8 +21,6 @@
 
 ### 🔥 GitHub Streak
 
----
-
 <!-- GitHub 통계 -->
 
 <p align="center">
